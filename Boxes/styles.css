@@ -1,0 +1,17 @@
+.one {
+  border: 5px solid blueviolet;
+  border-top-left-radius: 80px 50px;
+  margin: 50px;
+}
+
+.two {
+  border: 5px solid violet;
+  border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+  margin-bottom: 50px;
+}
+
+.three {
+  border: 5px solid yellowgreen;
+  padding: 0;
+  border-radius: 100px;
+}
